@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @qq1078470796
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-qq1078470796/qq1078470796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m xinyu hao
+- 👀 I’m interested in data integration, geographic information and Biological Diversity
+- 🌱 I’m currently learning in Inner Mongolia University
