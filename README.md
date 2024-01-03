@@ -1,3 +1,3 @@
 - 👋 Hi, I’m xinyu hao
-- 👀 I’m interested in data integration, geographic information and Biological Diversity
+- 👀 I’m interested in data integration, schema matching and Biological Diversity
 - 🌱 I’m currently learning in Inner Mongolia University
